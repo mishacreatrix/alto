@@ -1,0 +1,175 @@
+/* Colors */
+.primaryColor {
+	background-color: #358bad;
+}
+.secondaryColor {
+	background-color: #21283a;
+}
+.lightGrey {
+	background-color: #eeeef0;
+}
+.darkGrey {
+	background-color: #4e5765;
+}
+
+.mainHeader {
+	text-align: center;
+}
+
+.btn-round {
+	border-radius: 50%;
+	color: #358bad;
+}
+
+.btn-round:hover {
+	color:white;
+}
+
+/* Sections */
+.headerSection {
+	padding-top: 4em;
+	padding-bottom: 4em;
+	background-image: url("../img/tech.png");
+    background-attachment: fixed;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mainHeader {
+	color: white;
+	font-size: 45px;
+}
+
+.contentHeader {
+	text-align: center;
+	font-weight: bold;
+	color: #358bad;
+	margin-bottom: 1em;
+}
+
+.serviceSection {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.serviceSection .serviceItem {
+	text-align: center;
+}
+
+.productSection {
+	background-color: #eeeef0;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.product2Section {
+	background-color: #fff;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.feature2Image {
+	margin-bottom: -2em; 
+	padding-left:1em;
+}
+
+.callToActionSection {
+	padding-top: 5em;
+	padding-bottom: 5em;
+	background-image: url("../img/call.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.callToAction2Section {
+	padding-top: 5em;
+	padding-bottom: 5em;
+	background-image: url("../img/call2.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.callToAction {
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.callToSubHeading {
+	text-align: center;
+	color: white;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.teamSection {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.teamImage {
+    margin-bottom: 1.5em;
+    position: relative;
+    width: 100%;
+}
+
+.caption {
+    position: absolute;
+    width: 97%;
+    height: 70px;
+    bottom: 0px;
+    left: 0px;
+    color: white;
+    background: black;
+	text-align:left;
+	font-weight:bold;
+	opacity:0.7;
+	padding-top: .2em;
+}
+
+.caption h3 {
+	margin-top: 7px;
+	font-size: 22px;
+	padding-left: 0.6em;
+}
+
+.caption h4 {
+	color: #358bad;
+	padding-left: 0.6em;
+}
+
+.socialTeam {
+	color:#358bad;
+}
+
+.socialTeam:hover {
+	color:#2c718c;
+}
+
+.clientSection {
+	padding-top: 3em;
+	padding-bottom: 3em;
+	background-color: #eeeef0;
+}
+
+.contactSection {
+	padding-top: 3em;
+	padding-bottom: 3em;
+	background-color: #eeeef0;
+}
+
+.footerSection {
+	padding-top: 1em;
+	background-color: #4e5765;
+	color: white;
+}
+
+.footerSection a {
+	color: ;
+}
